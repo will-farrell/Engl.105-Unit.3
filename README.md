@@ -3,7 +3,7 @@ This is a repository contiang instrucitonal materials and sample datasets for Pr
 
 The repository contains three python notebooks, covering basic topics on coding and markdown with Python3, and modules explaining how to use the Pandas package for data analysis. There is also a fourth python notebook which outlines, step by step, how to create your own subset of data from a much larger data base.
 
-The first three notebooks have been adapted from the excellent lessons created by the staff at the Research Hub of UNC's Davis Library. The fourth notebook was created by me for an assignment.
+The first three notebooks have been adapted from the excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC's Davis Library. The fourth notebook was created by me for an assignment.
 
 where did the data/code come from
 what is this data code for/who
