@@ -5,6 +5,8 @@ The repository contains three python notebooks, covering basic topics on coding 
 
 The first three notebooks have been adapted from the excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC's Davis Library. The fourth notebook was created by me for an assignment.
 
+The data provided comes form the [FBI 2013 Hate Crime](https://ucr.fbi.gov/hate-crime/2013) statistics.
+
 - where did the data/code come from
 - what is this data code for/who
 - why was this repo created, what might people do with it
