@@ -3,7 +3,7 @@ This is a repository contiang instrucitonal materials and sample datasets for Pr
 
 The repository contains three python notebooks, covering basic topics on coding and markdown with Python3, and modules explaining how to use the Pandas package for data analysis. There is also a fourth Python notebook which outlines, step by step, how to create your own subset of data from a much larger data base.
 
-The data included is Hate Crime Statistics based on differnt religious, ethnic, and gender groups
+The data included is Hate Crime Statistics based on different religious, ethnic, and gender groups
 
 ## Where the data is from
 The first three notebooks have been adapted from the excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of UNC's Davis Library. The fourth notebook was created by me for an assignment in a Jupyter notebook
