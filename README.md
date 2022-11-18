@@ -16,7 +16,8 @@ This data is used to compare hate crime statisitcs in 2013 among differnt, racia
 
 This repository was created as I have extreme intrest in how crime affects differnt groups of people and how they compare. The data included does just that and it allows anyone to analyze it and create their own subsets; You can follow the steps included in the data file. The data can be manipulated in several differnt ways to create the perfect subset for whatever you are looking for.
 
-Shown below is a visualization of the custom subset I created from the raw data included in this repository. It is hswoing the difference between victims and known offenders of Hate Crimes against different ethnic groups. 
+Shown below is a visualization of the custom subset I created from the raw data included in this repository. The chart shows the difference between victims and known offenders of Hate Crimes against different ethnic groups. 
+
 ![data-viz](uf8fA-hate-crime-victims-and-known-offenders.png)
 
 I hope this has helped! if you have nay questions or see an error contact me at willfarrell03@gmail.com
