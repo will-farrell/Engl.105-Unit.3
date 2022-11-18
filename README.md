@@ -20,5 +20,9 @@ Shown below is a visualization of the custom subset I created from the raw data 
 
 ![data-viz](Data/uf8fA-hate-crime-victims-and-known-offenders-2.png)
 
+The following visualation does a good job at showing the difference percent ratio between victims and known offenders.
+
+![data-viz](Data/uf8fA-percent-difference-between-known-offenders-and-victims.png)
+
 I hope this has helped! if you have nay questions or see an error contact me at willfarrell03@gmail.com
 
