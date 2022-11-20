@@ -24,5 +24,7 @@ The following visualization does a good job at showing the difference percent ra
 
 ![data-viz](Data/uf8fA-percent-difference-between-known-offenders-and-victims-2.png)
 
+These visualizaitons show an intersting question of why is the percent deviation so high for Hate crimes on minority groups and relativley low for Hate crimes on Caucasians?
+
 I hope this has helped! if you have nay questions or see an error contact me at willfarrell03@gmail.com
 
