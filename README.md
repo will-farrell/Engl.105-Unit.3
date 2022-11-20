@@ -22,7 +22,7 @@ Shown below is a visualization of the custom subset I created from the raw data 
 
 The following visualization does a good job at showing the difference percent ratio between victims and known offenders. Negative percentage shows the percent less of known offenders to victims of that ethnic group. Positive percentage shows the percent more of known offenders to victims.
 
-![data-viz](Data/uf8fA-percent-difference-between-known-offenders-and-victims.png)
+![data-viz](Data/uf8fA-percent-difference-between-known-offenders-and-victims-2.png)
 
 I hope this has helped! if you have nay questions or see an error contact me at willfarrell03@gmail.com
 
