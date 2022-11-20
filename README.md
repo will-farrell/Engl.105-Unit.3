@@ -18,7 +18,7 @@ This repository was created as I have extreme intrest in how crime affects diffe
 
 Shown below is a visualization of the custom subset I created from the raw data included in this repository. The chart shows the difference between victims and known offenders of Hate Crimes against different ethnic groups. 
 
-![data-viz](Data/uf8fA-hate-crime-victims-and-known-offenders-2.png)
+![data-viz](Data/uf8fA-hate-crime-victims-and-known-offenders-3.png)
 
 The following visualization does a good job at showing the difference percent ratio between victims and known offenders. Negative percentage shows the percent less of known offenders to victims of that ethnic group. Positive percentage shows the percent more of known offenders to victims.
 
